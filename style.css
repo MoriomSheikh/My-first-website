@@ -1,0 +1,263 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  height: 400px;
+  padding-bottom: 200px;
+}
+
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.highlight {
+  color: brown;
+}
+
+.half-width h1 {
+  font-size: 60px;
+  color: black;
+  font-weight: 900;
+  margin-top: 100px;
+}
+
+.half-width h2 {
+  font-size: 60px;
+  color: peru;
+  font-weight: bold;
+  margin-top: -56px;
+}
+
+.half-width p {
+  font-size: 18px;
+  color: black;
+  margin-top: -35px;
+  padding-bottom: 20px;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  justify-items: center;
+  align-items: center;
+}
+
+.half-width img {
+  width: 70%;
+}
+
+.left-border {
+  border-left: 5px solid tomato;
+  border-radius: 5px;
+  padding-left: 5px;
+}
+
+.misson-sec {
+  background-color: #f8f9fc;
+  padding-bottom: 80px;
+}
+
+.my-mission-heading {
+  font-size: 40px;
+}
+
+.my-mission {
+  height: 400px;
+  padding-top: 18px;
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: #f8f9fc;
+}
+
+.mission-22 {
+  width: 25%;
+  height: 350px;
+  float: left;
+  border-radius: 30px;
+  box-shadow: 5px 5px 40px lightgray;
+  margin-left: 5%;
+
+}
+
+.mission-first {
+  background-color: rgba(163, 228, 253, 0.267);
+}
+
+.mission-sec {
+  background-color: #b4656549;
+}
+
+.mission-third {
+  background-color: #d1a20898;
+}
+
+.mission-22 img {
+  height: 180px;
+  width: 200px;
+}
+
+.massion {
+  color: #6c6c6c;
+  padding: 40px 30px;
+  font-size: 12px;
+  color: black;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+
+.massion p {
+  font-size: 13px;
+  margin-top: -50px;
+  padding-bottom: 5px;
+  color: #101010;
+}
+
+/*MY MISSION STYLE SECTION END */
+.goals {
+  width: 33%;
+  float: right;
+  background-color: peachpuff;
+  padding: 20px 30px;
+  margin-left: 50px;
+  border-radius: 30px;
+}
+
+.goals img {
+  width: 30%;
+}
+
+.goals p {
+  font-size: 12;
+  padding-right: 200px;
+  text-align: justify;
+}
+
+/*MY CORONE APP STYLE SECTION START */
+.mainheader {
+  display: inline-flex;
+  margin-left: 163px;
+  padding-top: 150px;
+  align-items: center;
+}
+
+.mainheader2 {
+  margin-right: 163px;
+  display: inline-flex;
+  margin-top: 100px;
+  align-items: center;
+}
+
+.mainheader3 {
+  display: inline-flex;
+  margin-left: 163px;
+  margin-top: -50px;
+  align-items: center;
+
+}
+
+
+.picture {
+  width: 400px;
+
+  padding-top: 55px;
+
+}
+
+
+
+.text {
+  margin-left: 140px;
+  padding-right: 149px;
+}
+
+.para {
+  font-size: 40px;
+  padding-top: 30px;
+}
+
+.text1 {
+  font-size: 18px;
+  font-weight: 600;
+  padding-bottom: 5px;
+}
+
+.bt {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background: tomato;
+  padding: 14px 26px;
+  color: white;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/*MY CONONA APP STYLE SECTION END */
+
+/*CORONA-APP SECTION START*/
+.app-heading {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+.app-sec {
+  background-image: url(images/shapes/shape-2.png);
+  background-repeat: no-repeat;
+  background-size: 190px 150px;
+  background-position: 90px;
+  margin-left: 90px;
+  margin-bottom: 380px;
+  padding-bottom: 150px;
+  padding-top: 40px;
+
+}
+
+.text-app {
+  margin-top: 200px;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.highlight {
+  color: peru;
+}
+
+.text2 {
+  margin-top: -35px;
+  font-size: 20px;
+
+}
+
+.appimg {
+  width: 250;
+}
+
+/*FOOTER SECTION START*/
+.Footer {
+  background: black;
+  margin-top: 253px;
+  color: white;
+  padding: 18px;
+}
+
+.footertitle {
+  font-size: 53px;
+  margin-left: 534px;
+  margin-top: 19px;
+}
+
+.footersubtitle {
+  font-size: 14px;
+  margin-left: 517px;
+  margin-top: -36px;
+}
+
+/*FOOTER SECTION END*/
